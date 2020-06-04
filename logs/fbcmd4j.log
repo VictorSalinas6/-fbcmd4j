@@ -1,0 +1,27 @@
+﻿
+2017-11-23 18:15:04.175 [main] INFO  org.fbcmd4j.Main - Iniciando app
+2017-11-23 18:15:04.317 [main] INFO  org.fbcmd4j.Utils - La propiedad 'oauth.appId' esta vacía
+2017-11-23 18:15:04.319 [main] INFO  org.fbcmd4j.Utils - La propiedad 'oauth.appSecret' esta vacía
+2017-11-23 18:15:28.656 [main] ERROR org.fbcmd4j.Main - Error validating access token: The session is invalid because the user logged out.
+2017-11-23 18:26:45.684 [main] INFO  org.fbcmd4j.Main - Iniciando app
+2017-11-23 18:26:49.420 [main] ERROR org.fbcmd4j.Main - An active access token must be used to query information about the current user.
+2017-11-23 18:27:20.874 [main] ERROR org.fbcmd4j.Main - An active access token must be used to query information about the current user.
+2017-11-23 18:27:55.697 [main] INFO  org.fbcmd4j.Main - Iniciando app
+2017-11-23 18:27:55.881 [main] INFO  org.fbcmd4j.Utils - La propiedad 'oauth.appId' esta vacía
+2017-11-23 18:27:55.881 [main] INFO  org.fbcmd4j.Utils - La propiedad 'oauth.appSecret' esta vacía
+2017-11-23 18:27:59.841 [main] ERROR org.fbcmd4j.Main - An active access token must be used to query information about the current user.
+2017-11-23 18:28:32.215 [main] INFO  org.fbcmd4j.Main - Iniciando app
+2017-11-23 18:28:35.658 [main] ERROR org.fbcmd4j.Main - An active access token must be used to query information about the current user.
+2017-11-23 18:28:37.554 [main] ERROR org.fbcmd4j.Main - An active access token must be used to query information about the current user.
+2017-11-23 18:28:40.905 [main] ERROR org.fbcmd4j.Utils - message - An active access token must be used to query information about the current user.
+code - 2500
+Relevant information for error recovery can be found on the Facebook Developers Document:
+	https://developers.facebook.com/docs/graph-api/using-graph-api/#errors
+
+FacebookException{statusCode=400, errorType='OAuthException', errorMessage='An active access token must be used to query information about the current user.', errorCode=2500, errorSubcode=-1, version=2.4.9}
+2017-11-23 18:29:21.844 [main] INFO  org.fbcmd4j.Main - Iniciando app
+2017-11-23 18:29:25.238 [main] ERROR org.fbcmd4j.Main - An active access token must be used to query information about the current user.
+2017-11-23 18:32:05.594 [main] INFO  org.fbcmd4j.Main - Iniciando app
+2017-11-23 18:42:39.534 [main] INFO  org.fbcmd4j.Main - Iniciando app
+2017-11-23 18:43:57.522 [main] INFO  org.fbcmd4j.Utils - Guardados en el archivo 'NewsFeed.txt'.
+2017-11-23 19:22:11.572 [main] INFO  org.fbcmd4j.Utils - Guardados en el archivo 'Wall.txt'.
